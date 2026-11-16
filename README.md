@@ -61,7 +61,7 @@ Para probar la aplicación, hay que seguir estos pasos:
 1. Clonar el repositorio o descargar el código fuente:
 
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/SergioCrespo1/CalculadoraSalarioNeto
    ```
 
 2. Abrir la carpeta del proyecto desde Android Studio.
